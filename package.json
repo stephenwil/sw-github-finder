@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.2.2",
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "form-container": "^0.2.7",
+    "jest-enzyme": "^7.0.0",
+    "moment": "^2.22.2",
+    "node-sass": "^4.9.4",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "react-test-renderer": "^16.5.2",
+    "typeface-roboto": "^0.0.54",
+    "validator": "^10.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
